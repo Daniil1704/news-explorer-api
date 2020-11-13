@@ -10,5 +10,5 @@
 
 ## Домен для обращения к API
 
-- https://api.tsyrulnukov.students.nomoreparties.xyz
-- http://api.tsyrulnukov.students.nomoreparties.xyz
+- https://api.tsyrulnukov.students.nomoreparties.co
+- http://api.tsyrulnukov.students.nomoreparties.co
